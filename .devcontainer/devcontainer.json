@@ -1,5 +1,5 @@
 {
-  "image": "applydigital/dotnet3.1:latest",
+  "image": "melwinextc/dotnet3.1-awscli",
   "features": {
   }
 }
