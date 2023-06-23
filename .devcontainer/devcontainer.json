@@ -1,0 +1,5 @@
+{
+  "image": "applydigital/dotnet3.1:latest",
+  "features": {
+  }
+}
